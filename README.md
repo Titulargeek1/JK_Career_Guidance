@@ -1,4 +1,6 @@
 # JK Career Guidance
+## 🔗 Live Demo
+[View the site here](https://titulargeek1.github.io/JK_Career_Guidance/)
 
 A web-based career guidance platform for students in Jammu & Kashmir, featuring interactive quizzes, career pathways, and college information.  
 Developed as part of a **Smart India Hackathon (SIH) problem statement** we participated in.
@@ -15,7 +17,7 @@ Developed as part of a **Smart India Hackathon (SIH) problem statement** we part
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML5, CSS3, JavaScript (ES6+)
 - Offline Capability: Service Worker (sw.js)
 - Deployment: GitHub Pages
 
@@ -24,7 +26,12 @@ Developed as part of a **Smart India Hackathon (SIH) problem statement** we part
 ## 🎯 Problem Statement (SIH Context)
 This project was built to address the challenge of providing **accessible career guidance for students in Jammu & Kashmir**, ensuring they can explore opportunities even with limited connectivity.
 
+
 ---
+
+## ▶️ How to Run Locally
+1. Clone the repo: `git clone https://github.com/Titulargeek1/JK_Career_Guidance.git`
+2. Open `index.html` in your browser.
 
 ## 📂 Project Structure
 JKCareerGuidance/
